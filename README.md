@@ -20,7 +20,3 @@ Note: in this project a free bootstrap templete [Vali Admin](https://github.com/
 - Adding events with client
 - Generating notifications for today's events
 - API for clients
-
-## Authors
-
-Katarzyna Machowina - [machowina](https://github.com/machowina)
